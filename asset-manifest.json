@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/The-Stocks/static/css/main.d102fdcc.css",
+    "main.js": "/The-Stocks/static/js/main.7a1e0dd6.js",
+    "static/js/787.14cc76c5.chunk.js": "/The-Stocks/static/js/787.14cc76c5.chunk.js",
+    "index.html": "/The-Stocks/index.html",
+    "main.d102fdcc.css.map": "/The-Stocks/static/css/main.d102fdcc.css.map",
+    "main.7a1e0dd6.js.map": "/The-Stocks/static/js/main.7a1e0dd6.js.map",
+    "787.14cc76c5.chunk.js.map": "/The-Stocks/static/js/787.14cc76c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d102fdcc.css",
+    "static/js/main.7a1e0dd6.js"
+  ]
+}
